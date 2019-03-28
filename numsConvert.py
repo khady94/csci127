@@ -1,7 +1,7 @@
 #CSci 127 Teaching Staff
 #February 2019
 #A program that uses functions to print out months.
-#Modified by:  ADD YOUR NAME HERE
+#Modified by:  Khady Sarr
 
 def num2string(num):
      """
@@ -11,7 +11,7 @@ def num2string(num):
      Assumes that input is an integer ranging from 0 to 9
      """
      
-     numString = ""
+     numString = "4"
 
      ###################################
      ### FILL IN YOUR CODE HERE      ###
@@ -20,7 +20,7 @@ def num2string(num):
      ### you change in this program. ###
      ###################################
 
-     return(numString)
+     return(4)
 
 
 
